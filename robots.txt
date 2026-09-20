@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-mortgage-dti-calculator.enjoy-onepage.com/sitemap.xml
